@@ -1,0 +1,1 @@
+- In the red team engagements Room they talk about emulating specific hacking groups (like apt 38) when going into a penetration test which has never really crossed my mind before
