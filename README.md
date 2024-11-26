@@ -1,18 +1,9 @@
-# Quartz v4
+# Security Blog using Quartz v4
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+Cybersecurity has been my passion since I was first locked out of the family computer and used safe mode to get a new admin account. This blog will be used for anything that I find fun from making mead to hackathons. 
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
+Soon there will be videos to go with my walkthroughs.
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+## Credit
+All credit for the site setup goes to [Jacky Zhao](https://github.com/jackyzha0/quartz)
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
-
-## Sponsors
-
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
