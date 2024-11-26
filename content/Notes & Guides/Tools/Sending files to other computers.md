@@ -1,0 +1,2 @@
+[Send Anywhere](https://send-anywhere.com) - This will allow me to easily send files from any device to any device for free. 
+[Python Web Server](https://pythonbasics.org/webserver/) - with a simple command you can start a webserver to send files from one local computer to another. (this can also be sent from inside a network to outside the network)
