@@ -1,10 +1,10 @@
 ---
-header_type: "hero"
+header_type: hero
 header_img: 
-title: <% title %>
+title: 
 created: <%tp.file.creation_date("YYYY-MM-DD")%>
 last_modified_at: <% tp.file.last_modified_date() %>
-tags:
+tags: 
 categories:
 ---
 <%* 
